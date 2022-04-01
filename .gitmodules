@@ -1,0 +1,12 @@
+[submodule "MetadataGetter"]
+	path = MetadataGetter
+	url = https://github.com/Skyluker4/MetadataGetter.git
+[submodule "Ransomwarer"]
+	path = Ransomwarer
+	url = https://github.com/Skyluker4/Ransomwarer.git
+[submodule "RansomwareGame"]
+	path = RansomwareGame
+	url = https://github.com/Skyluker4/RansomwareGame.git
+[submodule "FunniBoot"]
+	path = FunniBoot
+	url = https://github.com/Skyluker4/FunniBoot.git
