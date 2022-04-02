@@ -10,3 +10,6 @@
 [submodule "FunniBoot"]
 	path = FunniBoot
 	url = https://github.com/Skyluker4/FunniBoot.git
+[submodule "FunniBootInstaller"]
+	path = FunniBootInstaller
+	url = https://github.com/Skyluker4/FunniBootInstaller.git
