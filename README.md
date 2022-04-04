@@ -1,7 +1,13 @@
 # HackathonSpring2022
- 
+
+## Disclaimer
+
+DO NOT RUN ON A PERSONAL COMPUTER.
+This will encrypt all data in your home directory and overwrite your boot sector.
+The authors of this program are not liable for any damage to one's computer or loss of data.
+
  yeah, we codin'
- 
+
     ░░░░░▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄░░░░░░░
     ░░░░░█░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░▀▀▄░░░░
     ░░░░█░░░▒▒▒▒▒▒░░░░░░░░▒▒▒░░█░░░
@@ -17,5 +23,3 @@
     ░░░░░░░▀▄▄░▒▒▒▒░░░░░░░░░░▒░░░█░
     ░░░░░░░░░░▀▀▄▄░▒▒▒▒▒▒▒▒▒▒░░░░█░
     ░░░░░░░░░░░░░░▀▄▄▄▄▄░░░░░░░░█░░
-
-password for 7z is "HotzFellas"
